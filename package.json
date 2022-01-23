@@ -373,6 +373,7 @@
         "supports-preserve-symlinks-flag": "^1.0.0",
         "syntax-error": "^1.4.0",
         "table": "^5.4.6",
+        "telnetlib": "^1.0.1",
         "text-table": "^0.2.0",
         "through": "^2.3.8",
         "through2": "^2.0.5",
